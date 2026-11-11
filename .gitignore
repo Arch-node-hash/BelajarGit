@@ -1,0 +1,11 @@
+# Data lokal aplikasi (jangan masuk repo)
+tasks.json
+
+# Hasil build
+/bin/
+*.out
+
+# Berkas editor / OS
+.idea/
+.vscode/
+.DS_Store
